@@ -1,0 +1,35 @@
+.intro {
+  color: white;
+  background-color: grey;
+  padding:5px 0px 10px 20px;
+
+
+}
+.date{
+  color:blue;
+  text-decoration-style: wavy;
+}
+.intro h2 {
+    text-decoration: underline;
+}
+body {
+  font-family: fantasy;
+  line-height: 25px;
+}
+.main{
+  color:#333;
+}
+
+@media screen and (min-width:480px){
+  .column1{
+    float: right;
+    width: 60%;
+    padding: 30px;
+  }
+  .column2{
+    padding-top: 30px;
+
+  }
+
+  }
+}
